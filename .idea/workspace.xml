@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd28013c-78a8-4ba1-bb9c-96ee958fa343" name="Changes" comment="Commit 3.1 - Beta - fixing bugs">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/InnrLanding.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="cd28013c-78a8-4ba1-bb9c-96ee958fa343" name="Changes" comment="Commit 3.1 - Beta - fixing bugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -42,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="C:\Users\Acer\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\213.5744.224\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -94,6 +89,7 @@
       <workItem from="1680354682118" duration="2272000" />
       <workItem from="1680420924734" duration="19993000" />
       <workItem from="1680443220624" duration="210000" />
+      <workItem from="1680444152302" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1 - Building">
       <created>1679725865981</created>
