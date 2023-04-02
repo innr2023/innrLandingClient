@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd28013c-78a8-4ba1-bb9c-96ee958fa343" name="Changes" comment="Commit 3.1 - Beta - fixing bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/InnrLanding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0c72869c-b63f-4edc-bd43-6075943c1915" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NSG6dWKXW05k36y7rhuX1XmsYT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Users\Acer\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\213.5744.224\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets\icons" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets\facts_places" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets\emojis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\components\JoinTelegram" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets\icons" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src\assets\facts_places" />
+      <recent name="C:\Users\Acer\Desktop\InnrLanding\client\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd28013c-78a8-4ba1-bb9c-96ee958fa343" name="Changes" comment="" />
+      <created>1679649895670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679649895670</updated>
+      <workItem from="1679649897114" duration="1528000" />
+      <workItem from="1679677539291" duration="38000" />
+      <workItem from="1679678372179" duration="8239000" />
+      <workItem from="1679687825975" duration="621000" />
+      <workItem from="1679718652558" duration="6443000" />
+      <workItem from="1679905480695" duration="621000" />
+      <workItem from="1679984934854" duration="6659000" />
+      <workItem from="1679994564321" duration="2247000" />
+      <workItem from="1680014839693" duration="2553000" />
+      <workItem from="1680025026536" duration="854000" />
+      <workItem from="1680032136113" duration="17809000" />
+      <workItem from="1680075378272" duration="14470000" />
+      <workItem from="1680096945653" duration="3490000" />
+      <workItem from="1680124381385" duration="3166000" />
+      <workItem from="1680161046539" duration="11153000" />
+      <workItem from="1680211203180" duration="2000" />
+      <workItem from="1680212739432" duration="5778000" />
+      <workItem from="1680241831555" duration="7212000" />
+      <workItem from="1680302434282" duration="13848000" />
+      <workItem from="1680354682118" duration="2272000" />
+      <workItem from="1680420924734" duration="19993000" />
+      <workItem from="1680443220624" duration="210000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit 1 - Building">
+      <created>1679725865981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679725865981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit 1.1 - Creating first section">
+      <created>1679727306602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679727306602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit 1.2 - Integrating typewriter">
+      <created>1679728773639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679728773639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit 1.3 - Adding Welcome, Description, Contact and Footer sections">
+      <created>1679987253955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679987253955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit 1.4 - Integrating smtp.js">
+      <created>1679991812458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679991812458</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit 1.5 - Fixing smtp.js">
+      <created>1679996365199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679996365199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit 1.6 - Creating first page">
+      <created>1680058781883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680058781883</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit 1.7 - Rebuilding the project">
+      <created>1680059420142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680059420142</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit 1.71 - npm i GSAP">
+      <created>1680059714821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680059714821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit 1.8 - Setting QR code hover changes">
+      <created>1680089728503</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680089728503</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit 1.9 - Adding routing and partnership page">
+      <created>1680100243413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680100243413</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit 1.9 - Finishing partnership page and fixing main image hover effect">
+      <created>1680127347716</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680127347716</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit 2 - Fixing visual bags and customizing alert and select droplist">
+      <created>1680173999683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680173999683</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit 3 - Beta">
+      <created>1680441911779</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680441911779</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit 3.1 - Beta - fixing bugs">
+      <created>1680442949347</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680442949347</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit 3.1 - Beta - fixing bugs">
+      <created>1680443631160</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680443631160</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1 - Building" />
+    <MESSAGE value="Commit 1.1 - Creating first section" />
+    <MESSAGE value="Commit 1.2 - Integrating typewriter" />
+    <MESSAGE value="Commit 1.3 - Adding Welcome, Description, Contact and Footer sections" />
+    <MESSAGE value="Commit 1.4 - Integrating smtp.js" />
+    <MESSAGE value="Commit 1.5 - Fixing smtp.js" />
+    <MESSAGE value="Commit 1.6 - Creating first page" />
+    <MESSAGE value="Commit 1.7 - Rebuilding the project" />
+    <MESSAGE value="Commit 1.71 - npm i GSAP" />
+    <MESSAGE value="Commit 1.8 - Setting QR code hover changes" />
+    <MESSAGE value="Commit 1.9 - Adding routing and partnership page" />
+    <MESSAGE value="Commit 1.9 - Finishing partnership page and fixing main image hover effect" />
+    <MESSAGE value="Commit 2 - Fixing visual bags and customizing alert and select droplist" />
+    <MESSAGE value="Commit 3 - Beta" />
+    <MESSAGE value="Commit 3.1 - Beta - fixing bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 3.1 - Beta - fixing bugs" />
+  </component>
+</project>
